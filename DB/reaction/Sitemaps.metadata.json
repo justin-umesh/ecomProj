@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"reaction.Sitemaps"},{"v":{"$numberInt":"2"},"key":{"shopId":{"$numberInt":"1"},"handle":{"$numberInt":"1"}},"name":"shopId_1_handle_1","ns":"reaction.Sitemaps","background":true}],"uuid":"3d0e3a0165fc4af8ac774d4680e3b13d"}

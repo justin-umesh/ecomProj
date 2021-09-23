@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"reaction.Surcharges"},{"v":{"$numberInt":"2"},"key":{"shopId":{"$numberInt":"1"}},"name":"shopId_1","ns":"reaction.Surcharges","background":true}],"uuid":"b38e84527b93426396a4c25d6cbc2a3f"}

@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"reaction.NavigationItems"}],"uuid":"8884f2ba4962493d870f1d26d4c3c5e6"}

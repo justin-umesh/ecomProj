@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"reaction.Emails"},{"v":{"$numberInt":"2"},"key":{"jobId":{"$numberInt":"1"}},"name":"c2_jobId","ns":"reaction.Emails","background":true}],"uuid":"8405914cb29f46d5add4feff7d0dde58"}

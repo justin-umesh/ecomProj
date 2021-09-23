@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"reaction.Discounts"},{"v":{"$numberInt":"2"},"key":{"shopId":{"$numberInt":"1"}},"name":"c2_shopId","ns":"reaction.Discounts","background":true}],"uuid":"e8d0d699a8cf4012bde101067a40c8e3"}

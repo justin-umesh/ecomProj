@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"reaction.FlatRateFulfillmentRestrictions"},{"v":{"$numberInt":"2"},"key":{"methodIds":{"$numberInt":"1"}},"name":"methodIds_1","ns":"reaction.FlatRateFulfillmentRestrictions","background":true}],"uuid":"43ea7f33b29741aa96b94294a7f5cf7a"}

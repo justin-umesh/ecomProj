@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"reaction.cfs_gridfs.thumbnail.files"},{"v":{"$numberInt":"2"},"key":{"filename":{"$numberInt":"1"}},"name":"filename_1","ns":"reaction.cfs_gridfs.thumbnail.files"}],"uuid":"5d4c1cb3926c49af8e7aac9218f097a4"}

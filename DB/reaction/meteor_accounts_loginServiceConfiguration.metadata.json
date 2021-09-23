@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"reaction.meteor_accounts_loginServiceConfiguration"},{"v":{"$numberInt":"2"},"unique":true,"key":{"service":{"$numberInt":"1"}},"name":"service_1","ns":"reaction.meteor_accounts_loginServiceConfiguration"}],"uuid":"64aa50f583fa4a279ac119283b6c189e"}
